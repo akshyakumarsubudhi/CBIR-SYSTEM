@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 17 00:09:30 2019
-@author: CBIR Team
-"""
 import cv2 as cv # To read and write an image
 import numpy as np # To perform mathematical operatinon on data
 import os # To get system path.
